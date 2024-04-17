@@ -2,3 +2,4 @@
 /include
 /lib*
 *.cfg
+/laba*/__pycache__
