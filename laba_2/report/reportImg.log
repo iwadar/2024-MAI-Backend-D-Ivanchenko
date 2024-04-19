@@ -1,0 +1,6123 @@
+This is ApacheBench, Version 2.3 <$Revision: 1879490 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 127.0.0.1 (be patient)
+INFO: GET header == 
+---
+GET /public/img/wantto.jpg HTTP/1.0
+Host: 127.0.0.1:8080
+User-Agent: ApacheBench/2.3
+Accept: */*
+
+
+---
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:41 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+LOG: header received:
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 19 Apr 2024 21:00:42 GMT
+Content-Type: image/jpeg
+Content-Length: 2532180
+Last-Modified: Thu, 18 Apr 2024 21:41:09 GMT
+Connection: close
+ETag: "66219375-26a354"
+Accept-Ranges: bytes
+
+ÿØÿà
+
+
+Server Software:        nginx/1.18.0
+Server Hostname:        127.0.0.1
+Server Port:            8080
+
+Document Path:          /public/img/wantto.jpg
+Document Length:        2532180 bytes
+
+Concurrency Level:      2
+Time taken for tests:   1.000 seconds
+Complete requests:      506
+Failed requests:        0
+Total transferred:      1281409580 bytes
+HTML transferred:       1281283080 bytes
+Requests per second:    505.85 [#/sec] (mean)
+Time per request:       3.954 [ms] (mean)
+Time per request:       1.977 [ms] (mean, across all concurrent requests)
+Transfer rate:          1251002.49 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.0      0       0
+Processing:     3    4   0.8      4      14
+Waiting:        0    0   0.5      0      10
+Total:          3    4   0.8      4      14
+
+Percentage of the requests served within a certain time (ms)
+  50%      4
+  66%      4
+  75%      4
+  80%      4
+  90%      5
+  95%      5
+  98%      6
+  99%      6
+ 100%     14 (longest request)
