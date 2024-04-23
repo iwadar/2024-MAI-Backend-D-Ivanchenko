@@ -4,3 +4,6 @@
 *.cfg
 /laba*/__pycache__
 /laba_2/default
+/django-project/storeSite/db.sqlite3
+__init__.py
+*.pyc
