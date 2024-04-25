@@ -76,8 +76,14 @@ WSGI_APPLICATION = 'storeSite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        # 'ENGINE': 'django.db.backends.sqlite3',
+        # 'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'storesite',
+        'USER': 'user_for_django',
+        'PASSWORD': 'abcd908@',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
     }
 }
 
