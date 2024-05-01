@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure--q96t+f^)ryd-%woaysy@b(z0ucrhn8l#vrr3pe-a(9owfu&iu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0', 'django']
+
 
 
 # Application definition
@@ -82,7 +84,9 @@ DATABASES = {
         'NAME': 'storesite',
         'USER': 'user_for_django',
         'PASSWORD': 'abcd908@',
-        'HOST': '127.0.0.1',
+        'HOST': 'postgres_host',
+        # 'HOST': '127.0.0.1',
+        # 'PORT': '5890',
         'PORT': '5432',
     }
 }

@@ -1,0 +1,63 @@
+version: '3'
+
+services:
+  nginx:
+    container_name: nginx
+    image: nginx:latest
+    ports:
+      - "9999:7777"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - /var/www/html:/var/www/html
+      - /var/public:/var/public
+    restart: always
+    depends_on:
+      - gunicorn
+      - django
+
+  gunicorn:
+    container_name: ginicorn
+    build:
+      context: $PWD/laba_2
+      dockerfile: ./Dockerfile
+    ports:
+      - "9191:9191"
+
+  django:
+    container_name: django
+    build:
+      context: $PWD/django-project
+      dockerfile: ./Dockerfile
+    volumes:
+      - $PWD/django-project/storeSite:/usr/src/django
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      
+    entrypoint: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+
+
+  postgres:
+    image: postgres
+    container_name: postgres_host
+    environment:
+      - POSTGRES_DB=storesite
+      - POSTGRES_USER=user_for_django
+      - POSTGRES_PASSWORD=abcd908@
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user_for_django -d storesite"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  postgres_data:
+    driver: local

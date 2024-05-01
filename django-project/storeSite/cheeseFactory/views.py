@@ -21,7 +21,7 @@ def cheeseDeserialized(listCheeses):
         }
     return listCheeses
 
-
+@csrf_exempt
 @require_GET
 def listCheese(request):
     list_cheese = list(Cheese.objects.all())
@@ -29,6 +29,7 @@ def listCheese(request):
     # return JsonResponse({'info': 'Soon there will be a list of cheeses available for order'})
 
 
+@csrf_exempt
 @require_GET
 def cheese(request):
     if (_id := request.GET.get("vendor_code", _UNDEFINED_ID)) == _UNDEFINED_ID:
@@ -53,6 +54,7 @@ def orderDeserialized(listOrders):
     return listOrders
 
 
+@csrf_exempt
 @require_GET
 def orderHistory(request):
     list_orders = list(Order.objects.all())
@@ -60,6 +62,7 @@ def orderHistory(request):
     return JsonResponse({'info': 'Your order history will be here soon'})
 
 
+@csrf_exempt
 @require_GET
 def order(request):
     if (_id := request.GET.get("id", _UNDEFINED_ID)) == _UNDEFINED_ID:
@@ -71,18 +74,22 @@ def order(request):
     return JsonResponse({'info': 'You will soon be able to place your order here'})
 
 
+@csrf_exempt
 @require_GET
 def profile(request):
+    user = None
     if (_id := request.GET.get("id", _UNDEFINED_ID)) != _UNDEFINED_ID:
         try:
-            user = User.objects.get(id=id)
+            user = User.objects.get(id=_id)
         except User.DoesNotExist:
             user = None
     if user:
         responce = {'Имя': user.name, 'Фамилия': user.secondName, 'Телефон': user.phone}    
+        return JsonResponse(responce)
     return JsonResponse({'info': 'This is your future profile'})
 
 
+@csrf_exempt
 @require_GET
 def welcomeToFactory(request):
     return JsonResponse({'info': 'Hello! This is a cheese factory website where you can buy delicious cheese!'})
@@ -120,6 +127,7 @@ def createOrder(request):
     return JsonResponse({'info': 'ok'})
 
 
+@csrf_exempt
 @require_GET
 def searchCheese(request):
     if (search_str := request.GET.get("q", _UNDEFINED_STR)) != _UNDEFINED_STR:
